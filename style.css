@@ -1,0 +1,13 @@
+.formulario{
+    text-align: center;
+    border: solid 1px #03b712;
+    text-decoration-color: chartreuse;
+}
+h1{
+    color: #03b712;
+    text-align: center;
+}
+body{
+    background-color: black;
+    text-decoration-color: aqua;
+}
