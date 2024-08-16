@@ -11,3 +11,9 @@ body{
     background-color: black;
     text-decoration-color: aqua;
 }
+
+p{
+    border-color: red;
+    color: #03b712;
+    text-align: center;
+}
