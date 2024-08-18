@@ -1,5 +1,7 @@
-function hellowWord(){
+function helloWorld(){
     const input = document.querySelector('.texto');
-    const p = document.querySelector('#paragrafo');
-    p.innerHTML = `bem vindo a programação móvel ${input.value}`;
+    if(input.value){
+        const p = document.querySelector('#paragrafo');
+        p.innerHTML = `bem vindo a programação móvel ${input.value}`;
+    }
 }
